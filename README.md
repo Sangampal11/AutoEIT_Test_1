@@ -1,6 +1,3 @@
-bash
-
-cat > /home/claude/AutoEIT-Test/README.md << 'EOF'
 # AutoEIT — GSoC 2026 Test I Submission
 ### Audio-to-Text Transcription Pipeline for Spanish Elicited Imitation Task
 
@@ -211,9 +208,6 @@ Current pipeline uses `medium`. Upgrading to `large-v3` recommended for producti
 | `openpyxl` | Excel output |
 | `pandas` | Data handling |
 EOF
-echo "README written"
-wc -l /home/claude/AutoEIT-Test/README.md
 Output
 
-README written
-209 /home/claude/AutoEIT-Test/README.md
+
