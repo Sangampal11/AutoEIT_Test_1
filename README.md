@@ -24,7 +24,7 @@ AutoEIT-Test/
 ├── src/
 │   └── transcribe.py
 ├── outputs/
-│   └── AutoEIT_ALL4_FINAL_Transcriptions.xlsx
+│   └── AutoEIT_Transcriptions_Completed.xlsx
 ├── requirements.txt
 └── README.md
 ```
